@@ -1,5 +1,5 @@
 # TreeViz -- Interactive Dormant Tree Pruning Visualization
-![highlights](./resources/highlights.png)
+![highlight](./resources/highlight.png)
 
 ## Demo
 ```
